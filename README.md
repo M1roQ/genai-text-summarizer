@@ -1,4 +1,3 @@
-# genai-text-summarizer
 # Text Summarization with BART
 
 This project implements a text summarization tool using the `facebook/bart-large-cnn` model from Hugging Face Transformers.
